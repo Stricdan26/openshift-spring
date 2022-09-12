@@ -1,0 +1,3 @@
+FICTION|12345|Some Book|Tom Smith
+FICTION|87887|Whatever|Aanand Agarwal
+NONFICTION|99445|Another Book|Lucy Chen
